@@ -9,3 +9,5 @@
 `git clone https://github.com/YusukeKiyooka/LED.git`  
 `cd LED`  
 `make`  
+`sudo insmod myled.ko`
+`sudo chmod 666 /dev/myled0`
