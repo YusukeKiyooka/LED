@@ -6,4 +6,5 @@
 １の場合１秒、２の場合２秒、３の場合３秒。  
 
 ## 環境構築  
-`https://github.com/YusukeKiyooka/LED/blob/master/myled.c`
+`git clone https://github.com/YusukeKiyooka/LED.git  
+cd LED`
