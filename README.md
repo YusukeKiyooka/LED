@@ -5,7 +5,7 @@
 入力する数字(1~3)によってLEDの消灯時間が変化します。  
 １の場合１秒、２の場合２秒、３の場合３秒。  
 
-## 環境構築  
+## 使用方法  
 `make`  
 `sudo insmod myled.ko`  
 `sudo chmod 666 /dev/myled0`
