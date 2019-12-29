@@ -9,3 +9,6 @@
 `make`  
 `sudo insmod myled.ko`  
 `sudo chmod 666 /dev/myled0`
+
+## 動画
+https://youtu.be/FlY2hr9P9GQ
